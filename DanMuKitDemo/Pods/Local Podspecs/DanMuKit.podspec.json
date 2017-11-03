@@ -1,0 +1,21 @@
+{
+  "name": "DanMuKit",
+  "version": "1.0.1",
+  "summary": "A short description of DanMuKit.",
+  "homepage": "https://github.com/cquxutao/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tennyxu": "tennyxu@tencent.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/cquxutao/DanMuKit",
+    "tag": "1.0.1"
+  },
+  "source_files": "DanMuKit/*"
+}

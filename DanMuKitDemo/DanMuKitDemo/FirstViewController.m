@@ -7,6 +7,8 @@
 //
 
 #import "FirstViewController.h"
+#import "TTF.h"
+#import "TTF2.h"
 
 @interface FirstViewController ()
 

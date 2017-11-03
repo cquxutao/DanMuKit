@@ -1,0 +1,16 @@
+PODS:
+  - DanMuKit (1.0.1)
+
+DEPENDENCIES:
+  - DanMuKit (from `../DanMuKit.podspec`)
+
+EXTERNAL SOURCES:
+  DanMuKit:
+    :path: "../DanMuKit.podspec"
+
+SPEC CHECKSUMS:
+  DanMuKit: df150ea4e9f16a33f2c16f354f67f008c5e348aa
+
+PODFILE CHECKSUM: baa3c77431c757c976f7704c57eab8a0333623ee
+
+COCOAPODS: 1.2.1
